@@ -553,9 +553,7 @@ button:focus {
 .subscribe-form {
     display: flex;
 }
-.subscribe-label {
-    gap: 24px;
-}
+
 .subscribe-input {
     width: 264px;
     height: 40px;
