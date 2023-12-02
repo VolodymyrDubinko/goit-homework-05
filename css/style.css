@@ -660,6 +660,9 @@ button:focus {
     margin-bottom: 16px;
     color:#2E2F42;
 }
+.review-form-div {
+    margin-bottom: 8px;
+}
 .review-form-label {
     display: block;
     font-size: 12px;
