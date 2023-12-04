@@ -606,6 +606,7 @@ button:focus {
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
+    transition: opacity 250ms linear, visibility 250ms linear;
 }
 .backdrop.is-open {
     opacity: 1;
